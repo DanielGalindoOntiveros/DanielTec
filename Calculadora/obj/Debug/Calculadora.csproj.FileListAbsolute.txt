@@ -1,0 +1,7 @@
+C:\Users\LenovoTNX\source\repos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\LenovoTNX\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\LenovoTNX\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\LenovoTNX\source\repos\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\LenovoTNX\source\repos\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LenovoTNX\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\LenovoTNX\source\repos\Calculadora\obj\Debug\Calculadora.pdb
