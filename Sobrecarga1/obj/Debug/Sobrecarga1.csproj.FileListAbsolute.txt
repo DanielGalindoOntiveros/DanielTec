@@ -1,0 +1,7 @@
+C:\Users\LenovoTNX\source\repos\Sobrecarga1\bin\Debug\Sobrecarga1.exe.config
+C:\Users\LenovoTNX\source\repos\Sobrecarga1\bin\Debug\Sobrecarga1.exe
+C:\Users\LenovoTNX\source\repos\Sobrecarga1\bin\Debug\Sobrecarga1.pdb
+C:\Users\LenovoTNX\source\repos\Sobrecarga1\obj\Debug\Sobrecarga1.csprojAssemblyReference.cache
+C:\Users\LenovoTNX\source\repos\Sobrecarga1\obj\Debug\Sobrecarga1.csproj.CoreCompileInputs.cache
+C:\Users\LenovoTNX\source\repos\Sobrecarga1\obj\Debug\Sobrecarga1.exe
+C:\Users\LenovoTNX\source\repos\Sobrecarga1\obj\Debug\Sobrecarga1.pdb
