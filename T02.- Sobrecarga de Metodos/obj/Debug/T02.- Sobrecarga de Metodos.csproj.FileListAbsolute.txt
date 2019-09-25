@@ -1,0 +1,7 @@
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\T02.- Sobrecarga de Metodos\bin\Debug\T02.- Sobrecarga de Metodos.exe.config
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\T02.- Sobrecarga de Metodos\bin\Debug\T02.- Sobrecarga de Metodos.exe
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\T02.- Sobrecarga de Metodos\bin\Debug\T02.- Sobrecarga de Metodos.pdb
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\T02.- Sobrecarga de Metodos\obj\Debug\T02.- Sobrecarga de Metodos.csprojAssemblyReference.cache
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\T02.- Sobrecarga de Metodos\obj\Debug\T02.- Sobrecarga de Metodos.csproj.CoreCompileInputs.cache
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\T02.- Sobrecarga de Metodos\obj\Debug\T02.- Sobrecarga de Metodos.exe
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\T02.- Sobrecarga de Metodos\obj\Debug\T02.- Sobrecarga de Metodos.pdb
