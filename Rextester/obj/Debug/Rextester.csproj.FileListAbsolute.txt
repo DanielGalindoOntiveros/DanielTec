@@ -1,0 +1,7 @@
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\Rextester\bin\Debug\Rextester.exe.config
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\Rextester\bin\Debug\Rextester.exe
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\Rextester\bin\Debug\Rextester.pdb
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\Rextester\obj\Debug\Rextester.csprojAssemblyReference.cache
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\Rextester\obj\Debug\Rextester.csproj.CoreCompileInputs.cache
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\Rextester\obj\Debug\Rextester.exe
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\Rextester\obj\Debug\Rextester.pdb
