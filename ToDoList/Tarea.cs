@@ -27,7 +27,7 @@ namespace ToDoList
             }
 
            
-            public TaskItem(int number, string title, string desc)
+            public TaskItem(int number, string title, string desc, string desc1)
             {
                 Number = number;
                 Title = title;
@@ -58,7 +58,7 @@ namespace ToDoList
                 //Console.WriteLine("\t Task List");
                 Console.WriteLine();
                 Console.WriteLine("Num |  Name |  Title  | Description");
-                Console.WriteLine("---------------------------");
+                Console.WriteLine("------------------------------------");
                 foreach (var t in this)
                 {
                     Console.WriteLine("{0}     {1}\t{2}\t{3}", t.Number.ToString(),
@@ -71,11 +71,12 @@ namespace ToDoList
 
             public void NewTaskItem()
             {
+                string number = String.Empty;
                 string name = String.Empty;
                 string title = String.Empty;
                 string desc = String.Empty;
 
-                Console.Write("Enter new task Title: ");
+                Console.Write("Enter new task Name: ");
                 name = Console.ReadLine().Trim();
                 Console.WriteLine("{0}\n", name);
 

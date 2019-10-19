@@ -1,0 +1,7 @@
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\ToDoList2\bin\Debug\ToDoList2.exe.config
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\ToDoList2\bin\Debug\ToDoList2.exe
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\ToDoList2\bin\Debug\ToDoList2.pdb
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\ToDoList2\obj\Debug\ToDoList2.csprojAssemblyReference.cache
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\ToDoList2\obj\Debug\ToDoList2.csproj.CoreCompileInputs.cache
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\ToDoList2\obj\Debug\ToDoList2.exe
+C:\Users\LenovoTNX\Documents\GitHub\DanielTec\ToDoList2\obj\Debug\ToDoList2.pdb
