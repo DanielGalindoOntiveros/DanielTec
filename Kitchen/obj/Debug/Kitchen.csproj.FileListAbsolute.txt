@@ -1,0 +1,7 @@
+C:\Users\LenovoTNX\source\repos\Kitchen\obj\Debug\Kitchen.csprojAssemblyReference.cache
+C:\Users\LenovoTNX\source\repos\Kitchen\obj\Debug\Kitchen.csproj.CoreCompileInputs.cache
+C:\Users\LenovoTNX\source\repos\Kitchen\bin\Debug\Kitchen.exe.config
+C:\Users\LenovoTNX\source\repos\Kitchen\bin\Debug\Kitchen.exe
+C:\Users\LenovoTNX\source\repos\Kitchen\bin\Debug\Kitchen.pdb
+C:\Users\LenovoTNX\source\repos\Kitchen\obj\Debug\Kitchen.exe
+C:\Users\LenovoTNX\source\repos\Kitchen\obj\Debug\Kitchen.pdb
